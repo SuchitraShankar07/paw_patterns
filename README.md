@@ -33,7 +33,7 @@ You can install them using `pip`:
 pip install ultralytics librosa moviepy opencv-python numpy matplotlib
 ```
 ---
-## Contributors:
+## Other Contributors:
 - Ingenius hackathon team:
     - Sanath
     - Neranjana
